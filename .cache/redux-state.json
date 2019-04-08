@@ -1,0 +1,1344 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "de0f68beccedf846a4566fb086fe4cc8",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4300616557cb9dec8b1605fbefacfd00",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "34c716381cd30436507d79476ee086fc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b3bee761da59f73176e3869b50d24950",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1313b2dd1bb25ec565b9bde32c6ad840",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8d30cf679a8f7d89bfe976a872bea7fd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "79bc20bdd316ade58eb26c8f352c013e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ea91d5a8b2157a7e9bcf9d9efc0f37ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "dfde66f6-be5c-551d-a19b-e03ea11ef88a": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-source-filesystem",
+      "id": "dfde66f6-be5c-551d-a19b-e03ea11ef88a",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/thomasroman/Desktop/GatsbyCC/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "94e06bebd340c84b37b617079df55dc3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e3609e376695629fe06404a295222769",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.32",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.32",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^1.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7b91e36c1425054b67efba8a12918354",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.26",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3be57f7ae40f1e163a5c2e403e271096",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "e494f61d7e0b37a1d8a3d1f85e477e90",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.3.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.37"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.26"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.28"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "11881d6d32a6d8e7223d02530771b653",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c48273e5-a2e3-5b19-87ab-3bae1227d991": {
+      "resolve": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-page-creator",
+      "id": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/thomasroman/Desktop/GatsbyCC/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomasroman/Desktop/GatsbyCC/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1afb924a910e211b604626e36e9144c4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Crash Course",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "port": 8000,
+      "host": "localhost",
+      "buildTime": "2019-04-07T04:40:50.488Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9a8ce3e30835aab2e4de482c08e2da0e",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "dd3cf4d6-126e-59ff-b552-d2ffba38c879": {
+      "id": "dd3cf4d6-126e-59ff-b552-d2ffba38c879",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "691b01f401aeba40cab42bdf31345c50",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/GatsbyCC/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2019-04-07T04:27:34.000Z",
+      "accessTime": "2019-04-07T04:41:15.000Z",
+      "changeTime": "2019-04-07T04:36:14.000Z",
+      "birthTime": "2019-04-07T04:27:34.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/GatsbyCC/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5693229,
+      "blocks": 0,
+      "atimeMs": 1554612075000,
+      "mtimeMs": 1554611254000,
+      "ctimeMs": 1554611774000,
+      "birthtimeMs": 1554611254000,
+      "atime": "2019-04-07T04:41:15.000Z",
+      "mtime": "2019-04-07T04:27:34.000Z",
+      "ctime": "2019-04-07T04:36:14.000Z",
+      "birthtime": "2019-04-07T04:27:34.000Z"
+    },
+    "89846450-296d-53f6-8a47-8f07016ce293": {
+      "id": "89846450-296d-53f6-8a47-8f07016ce293",
+      "children": [
+        "53d3bb35-492c-5e8a-872e-dc091121ccd3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/GatsbyCC/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-04-07T04:27:34.000Z",
+      "accessTime": "2019-04-07T04:36:14.000Z",
+      "changeTime": "2019-04-07T04:36:14.000Z",
+      "birthTime": "2019-04-07T04:27:34.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/GatsbyCC/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5693231,
+      "blocks": 48,
+      "atimeMs": 1554611774000,
+      "mtimeMs": 1554611254000,
+      "ctimeMs": 1554611774000,
+      "birthtimeMs": 1554611254000,
+      "atime": "2019-04-07T04:36:14.000Z",
+      "mtime": "2019-04-07T04:27:34.000Z",
+      "ctime": "2019-04-07T04:36:14.000Z",
+      "birthtime": "2019-04-07T04:27:34.000Z"
+    },
+    "53d3bb35-492c-5e8a-872e-dc091121ccd3": {
+      "id": "53d3bb35-492c-5e8a-872e-dc091121ccd3",
+      "children": [],
+      "parent": "89846450-296d-53f6-8a47-8f07016ce293",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "4e5657aa-9791-51c5-b575-82b1ec47beae": {
+      "id": "4e5657aa-9791-51c5-b575-82b1ec47beae",
+      "children": [
+        "c4d03869-8f72-549d-adc0-97a77071cf73"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/GatsbyCC/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-04-07T04:27:34.000Z",
+      "accessTime": "2019-04-07T04:36:14.000Z",
+      "changeTime": "2019-04-07T04:36:14.000Z",
+      "birthTime": "2019-04-07T04:27:34.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/GatsbyCC/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5693230,
+      "blocks": 328,
+      "atimeMs": 1554611774000,
+      "mtimeMs": 1554611254000,
+      "ctimeMs": 1554611774000,
+      "birthtimeMs": 1554611254000,
+      "atime": "2019-04-07T04:36:14.000Z",
+      "mtime": "2019-04-07T04:27:34.000Z",
+      "ctime": "2019-04-07T04:36:14.000Z",
+      "birthtime": "2019-04-07T04:27:34.000Z"
+    },
+    "c4d03869-8f72-549d-adc0-97a77071cf73": {
+      "id": "c4d03869-8f72-549d-adc0-97a77071cf73",
+      "children": [],
+      "parent": "4e5657aa-9791-51c5-b575-82b1ec47beae",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "pluginCreatorId": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8bbc4624df83137a3e0ac18a482b6fcc",
+        "description": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "pluginCreatorId": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "619370e254f77a89703eaccc4af7e9a9",
+        "description": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "pluginCreatorId": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1fd4ab5594920197bc241f92a1767c45",
+        "description": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ef598cb9441f6db463ca82a52ff02813",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "pluginCreatorId": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9e7ac70752c8238f7295bbdc9345a042",
+        "description": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /services/": {
+      "jsonName": "services-522",
+      "internalComponentName": "ComponentServices",
+      "path": "/services/",
+      "component": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js",
+      "componentChunkName": "component---src-pages-services-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "pluginCreatorId": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js",
+      "id": "SitePage /services/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "66812cf72d8c80852847004bc42079f7",
+        "description": "c48273e5-a2e3-5b19-87ab-3bae1227d991",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "dc972636c58879e30d55380b7098473d"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "4e5657aa-9791-51c5-b575-82b1ec47beae": [
+        "sq--src-components-image-js"
+      ],
+      "c4d03869-8f72-549d-adc0-97a77071cf73": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 755544856,
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-seo-js": 2417117884,
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-image-js": 2011440971,
+    "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "services-522": "984/path---services-522-7f2-0SUcWyAf8ecbYDsMhQkEfPzV8"
+  },
+  "components": {
+    "/Users/thomasroman/Desktop/GatsbyCC/.cache/dev-404-page.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/GatsbyCC/src/pages/index.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/index.js",
+      "query": "",
+      "pages": [
+        "/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/GatsbyCC/src/pages/page-2.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/page-2.js",
+      "query": "",
+      "pages": [
+        "/page-2/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/GatsbyCC/src/pages/about.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/about.js",
+      "query": "",
+      "pages": [
+        "/about/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js": {
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js",
+      "query": "",
+      "pages": [
+        "/services/"
+      ],
+      "isInBootstrap": false
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "usersThomasromanDesktopGatsbyCcSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersThomasromanDesktopGatsbyCcSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersThomasromanDesktopGatsbyCcSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/thomasroman/Desktop/GatsbyCC/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersThomasromanDesktopGatsbyCcSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
+    }
+  }
+}
