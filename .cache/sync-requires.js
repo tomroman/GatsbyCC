@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/about.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/index.js"))),
   "component---src-pages-page-2-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/page-2.js"))),
-  "component---src-pages-services-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js")))
+  "component---src-pages-services-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/services.js"))),
+  "component---src-pages-blog-js": hot(preferDefault(require("/Users/thomasroman/Desktop/GatsbyCC/src/pages/blog.js")))
 }
 
