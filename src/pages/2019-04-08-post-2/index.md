@@ -5,4 +5,4 @@ title: "My First Gatsby Post"
 author: "Tom R"
 ---
 
-This is my **second blog** in Gatsby
+This is my **second page** in the Gatsby.js Blog
