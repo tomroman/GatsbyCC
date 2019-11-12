@@ -5,4 +5,4 @@ title: "My First Gatsby Post"
 author: "Tom R"
 ---
 
-This is my **first blog** in Gatsby
+This is my **first page** in Gatsby
