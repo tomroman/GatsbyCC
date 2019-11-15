@@ -7,7 +7,7 @@ const AboutPage = () => (
         <div>
             <h1> About Me </h1>
                 <p>
-                    lorem ipsum 
+                    this is my blog about blank.
                 </p>
             
         </div>
