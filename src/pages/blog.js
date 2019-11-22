@@ -15,7 +15,11 @@ const BlogPage = ({data}) => (
                 
                 <br />
                 <br /> 
-                <Link to={post.node.frontmatter.path}>Read More</Link>
+                {/* <Link to={post.node.frontmatter.path}>Read More
+
+                
+                
+                </Link> */}
                 <br />
                 <br />
                 <hr /> 
