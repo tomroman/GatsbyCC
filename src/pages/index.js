@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>This is my blog</p>
     
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      {/* <Image /> */}
+      <Image />
     </div>
     
   </Layout>
